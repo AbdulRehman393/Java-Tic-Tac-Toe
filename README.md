@@ -36,6 +36,11 @@ It features a simple and colorful graphical interface, player turn handling (X a
 
 ---
 
+## 📸 Demo Screenshot
+![TicTacToe Screenshot](TicTacToeGame/assets/screenshot.png)
+
+
+
 ## 🚀 How to Run
 
 ### Prerequisites
@@ -95,8 +100,12 @@ Contributions are welcome! Feel free to:
 
 ## 👨‍💻 Author
 
-**Abdul Rehman**
-- GitHub: [@AbdulRehman393](https://github.com/AbdulRehman393)
+</br>
+
+Abdul Rehman
+<br>
+
+<a href="https://github.com/AbdulRehman393" target="_blank"> <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a> <a href="https://www.linkedin.com/in/khawaja-abdul-rehman-24088b266/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a> <a href="mailto:khawajaabdulrehman393@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a>
 
 ---
 
